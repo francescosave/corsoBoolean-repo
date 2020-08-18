@@ -5,17 +5,55 @@ in completa autonomia pa
 ## Esercitazione
 
 * [Esercizio 1 - Basi Html](https://github.com/francescosave/corsoBoolean-repo/tree/master/esercizio1_tag-HTML)
-* [Esercizio 1 - Progetto Orto](./esercizio1_ortolana)
-* [Esercizio 2](./francescosave/corsoBoolean-repo/tree/master/esercizio1_ortolana)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
-* [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
+* [Esercizio 1 - Progetto Orto](./esercizio1_ortolana/)
+* [Esercizio 2](./esercizio1_ortolana/)
+* [Esercizio 3](./esercizio3_inputtag/)
+* [Esercizio 3](./esercizio3_CV-correzione/)
+* [Esercizio 4](./Esercizio4_gmail/)
+* [Esercizio 5](./Esercizio5_css-Avanzati)
+* [Esercizio 5](./Esercizio5_CV_css-Avanzati)
+
+* [Esercizio 6](./resources/doc/pdf/GovPay-PagoPA.pdf)
+* [Esercizio 6](./resources/doc/pdf/GovPay-PagoPA.pdf)
+* [Esercizio 6](./resources/doc/pdf/GovPay-PagoPA.pdf)
+* [Esercizio 6](./resources/doc/pdf/GovPay-PagoPA.pdf)
+* [Esercizio 7](./resources/doc/pdf/GovPay-PagoPA.pdf)
+* [Esercizio 7](./esercizio1_ortolana/)
+* [Esercizio 8](./esercizio1_ortolana/)
+* [Esercizio 8](./esercizio1_ortolana/)
+
+
+
+
+
+Esercizio6_Quadratini
+
+
+Esercizio7_Airbnb-correzione
+
+
+Esercizio7_Airbnb
+
+
+Esercizio8_AlbumFoto-correzione
+
+
+Esercizio8_AlbumFoto
+
+
+
+
+
+
+
+
+esercizio6_ecommerce-correzione
+
+
+esercizio6_ecommerce
+
+
+esercizio8_Youtube
 
 
 
