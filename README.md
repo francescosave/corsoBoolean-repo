@@ -21,9 +21,9 @@ in completa autonomia pa
 
 ## Contatti
 
-- Boolean Carrers: [Sito](http://www.booblean.carrers.com)
-- Corso Gratuito: [Sito](http://www.booblean.carrers.com)
-- Iscrizione Accademy: [Sito](http://www.booblean.carrers.com)
+- Boolean Carrers: [Sito](https://www.boolean.careers)
+- Corso Gratuito: [Sito](https://www.boolean.careers/lezione-gratuita)
+- Iscrizione Accademy: [Sito](https://www.boolean.careers/iscriviti)
 
 
 ## Licenza
