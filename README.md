@@ -5,7 +5,7 @@ in completa autonomia pa
 ## Esercitazione
 
 * [Esercizio 1 - Basi Html](https://github.com/francescosave/corsoBoolean-repo/tree/master/esercizio1_tag-HTML)
-* [Esercizio 1 - Progetto Orto](./corsoBoolean-repo/tree/master/esercizio1_ortolana)
+* [Esercizio 1 - Progetto Orto](./esercizio1_ortolana)
 * [Esercizio 2](./francescosave/corsoBoolean-repo/tree/master/esercizio1_ortolana)
 * [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
 * [Esercizio 1](./resources/doc/pdf/GovPay-PagoPA.pdf)
