@@ -1,0 +1,55 @@
+body{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.test{
+  border: 1px solid red;
+}
+
+.container_album{
+
+  padding: 50px;
+
+}
+
+.header_icoAdd a{
+  font-size: 40px;
+  color: #3481d0;
+  text-decoration: none;
+}
+
+.header_text{
+  font-size: 40px;
+  font-weight: bold;
+  margin: 50px 0;
+  padding-bottom: 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.header_textseeAll{
+  float: right;
+  font-size: 20px;
+  text-decoration: none;
+  color: #3481d0;
+}
+
+.card{
+  float: left;
+  margin: 10px;
+  width: calc(100% / 6 - 20px);
+  /* width: 15%; */
+  height: 150px;
+}
+
+.card img{
+  width: 100%;
+  /* background-size: contain; */
+}
+
+.card_title{font-size: 20px;margin: 10px 0;}
+
+.card_number{font-size: 20px;margin: 10px 0;color: grey;}

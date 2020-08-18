@@ -1,0 +1,147 @@
+body{
+  /* background-color: lightgray; */
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container_album{
+/* background-color: #606060; */
+border: 1px solid white;
+width: 90%;
+height: 90%;
+position: absolute;
+left: 50%;
+top:  50%;
+transform: translate(-50%,-50%);
+}
+
+.container_album hr{
+  width: 95%;
+  margin : 20px auto;
+
+}
+
+.header_icoAdd{
+  width: 95%;
+  margin : 20px auto;
+  display: inline-block;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+.header_text{
+  width: 95%;
+  margin : 0 auto;
+  border: 1px solid white;
+}
+
+.header_textSx{
+float: left;
+border: 1px solid white;
+}
+
+.header_textDx{
+  float: right;
+  border: 1px solid white;
+}
+
+
+.header_album hr{
+  width: 95%;
+  margin : 20px auto;
+}
+
+.header_album{
+  /* background-color: #707070; */
+
+  border: 1px solid white;
+  width: 90%;
+  height: 15%;
+  margin: 20px auto;
+
+}
+
+.body_album{
+  /* background-color: #707070; */
+  border: 1px solid white;
+  width: 90%;
+  height: 60%;
+  margin: 20px auto;
+}
+
+.card{
+  /* float: left; */
+}
+
+.cardFoto{
+  background-color: red;
+  background-size: cover;
+  width: 15%;
+  height: 150px;
+  float: left;
+  margin: 5px;
+}
+
+
+.cardtext{
+  color: red;
+
+}
+
+.cardFoto1{
+  background-image: url('../img/sfondi1.jpg');
+}
+
+.cardFoto2{
+  background-image: url('../img/sfondi2.jpg');
+
+}
+
+.cardFoto3{
+  background-image: url('../img/sfondi3.jpg');
+
+}
+
+.cardFoto4{
+  background-image: url('../img/sfondi4.jpg');
+
+}
+
+.cardFoto5{
+  background-image: url('../img/sfondi5.jpg');
+
+}
+
+.cardFoto6{
+  background-image: url('../img/sfondi6.jpg');
+}
+
+.cardFoto7{
+  background-image: url('../img/sfondi7.jpg');
+}
+
+.cardFoto8{
+  background-image: url('../img/sfondi8.jpg');
+}
+
+.cardFoto9{
+  background-image: url('../img/sfondi9.jpg');
+}
+
+.cardFoto10{
+  background-image: url('../img/sfondi10.jpg');
+}
+
+.cardFoto11{
+  background-image: url('../img/sfondi11.jpg');
+}
+
+.cardFoto12{
+  background-image: url('../img/sfondi12.jpg');
+}

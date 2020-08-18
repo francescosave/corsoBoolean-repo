@@ -1,0 +1,39 @@
+
+.test{
+  border: 1px solid red;
+}
+
+li a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+
+.Intestazione1,.Intestazione2{
+  
+}
+
+/* tutti gli h1 figli di .intestazione1 */
+.Intestazione1 > h1 {
+  color: red;
+}
+
+h2{
+  color: blue;
+}
+
+h3{
+  color: orange;
+}
+
+h4{
+  color: yellow;
+}
+
+h5{
+  color: violet;
+}
+
+h6{
+  color: purple;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <!-- lo inseriamo solo nel momento che interagiamo con il backend -->
+    <form action="index.html" method="post">-->
+    <div>
+      <input type="text" name="nome" value="" placeholder="Inserisci il Nome" required minlength="2" >
+    </div>
+    <div>
+      <input type="text" name="cognome" value="" placeholder="Inserisci il Cognome" required>
+    </div>
+    <div>
+      <input type="email" name="email" value="" placeholder="Inserisci la mail" required>
+    </div>
+    <div>
+      <select  name="regione" required>
+        <option value="ABRUZZO">Abbruzzo</option>
+        <option value="PUGLIA">Puglia</option>
+        <option value="SARDEGNA">Sardegna</option>
+        <option value="ALTRA_REGIONE">Altra Regione</option>
+      </select>
+    </div>
+    <div>
+      <input type="radio" name="MAGGIORENNE" value="vage18" required>
+      <label for="age">0-18</label>
+      <input type="radio" name="MAGGIORENNE" value="vage18piu" required>
+      <label for="age">18+</label>
+    </div>
+    <div>
+      <input type="checkbox" name="condition" value="condition" required>
+      <label for="condition">Accetta i termini e condizioni</label>
+    </div>
+    <div>
+      <input type="submit" name="" value="Invia">
+    </div>
+
+
+
+      <!-- lo inseriamo solo nel momento che interagiamo con il backend-->
+    </form>
+  </body>
+</html>

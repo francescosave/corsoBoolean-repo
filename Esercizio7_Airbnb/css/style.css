@@ -1,0 +1,32 @@
+
+body{
+  margin: 0;
+}
+
+  .background{
+    margin: 50px auto;
+    width: 1200px;
+    height: 500px;
+    text-align: center;
+    line-height: 500px;
+    font-size: 50px;
+    background-size: cover;
+    color: darkgrey;
+  }
+
+  .background1{
+    background-image: url('../img/nairobi.jpg');
+
+  }
+
+  .background2{
+    background-image: url('../img/bari_old-city.jpg');
+  }
+
+  .background3{
+    background-image: url('../img/newyork.jpg');
+  }
+
+  .layered{
+    background-color: rgba(50, 0, 0, 0.5);
+  }

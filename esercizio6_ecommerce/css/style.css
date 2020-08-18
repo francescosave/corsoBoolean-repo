@@ -1,0 +1,83 @@
+.test{
+  /* border: 1px solid red; */
+}
+
+body{
+  background-color: #ffffff;
+}
+
+.titolo{
+  text-align: center;
+}
+
+.container{
+  height: 610px;
+  width: 615px;
+  margin: 50px auto;
+  background-color: #ffffff;
+}
+
+.cardProdotto{
+  width: 200px;
+  height: 300px;
+  display: inline-block;
+
+
+}
+
+.Prodotto1{
+  position: relative;
+  background-image:
+  url("../img/pd1.jpg");
+  background-size:
+  200px 300px;
+}
+#Prodotto2{
+position: relative;
+background-image:
+url("../img/pd2.jpg");
+background-size:
+200px 300px;
+
+}
+#Prodotto3{
+  position: relative;
+  background-image:
+  url("../img/pd3.jpg");
+  background-size:
+  200px 300px;
+}
+
+
+.Prodotto1:hover{
+border: 1px solid red;
+content: "ciao";
+}
+
+.sconto{
+  position: absolute;
+  right: 3px;
+  top: 3px;
+  border-radius: 50%;
+  padding: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  color: yellow;
+}
+
+.sconto1{
+  background-color: darkgreen;
+}
+
+.sconto2{
+  background-color: red;
+}
+
+
+.cuoricino{
+  font-size: 24px;
+  color: red;
+  position: absolute;
+  left: 50%;
+  bottom: 3px;
+}

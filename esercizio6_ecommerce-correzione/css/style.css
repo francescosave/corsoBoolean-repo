@@ -1,0 +1,80 @@
+.test{
+  /* border: 1px solid red; */
+}
+
+body{
+  background-color: #ffffff;
+}
+
+.title{
+  text-align: center;
+}
+
+.container{
+  height: 610px;
+  width: 615px;
+  margin: 50px auto;
+  background-color: #ffffff;
+}
+
+.cardProdotto{
+  width: 200px;
+  height: 300px;
+  display: inline-block;
+  background-size:
+  200px 300px;
+
+}
+
+.Prodotto1{
+  position: relative;
+  background-image:
+  url("../img/pd1.jpg");
+  }
+
+.Prodotto2{
+position: relative;
+background-image:
+url("../img/pd2.jpg");
+}
+
+.Prodotto3{
+  position: relative;
+  background-image:
+  url("../img/pd3.jpg");
+}
+
+
+.cardProdotto:hover .cuoricino{
+display: inline-block;
+}
+
+.cuoricino{
+  display: none;
+  font-size: 24px;
+  color: red;
+  position: absolute;
+  left: 50%;
+  bottom: 3px;
+}
+
+.discount{
+  position: absolute;
+  right: 3px;
+  top: 3px;
+  border-radius: 50%;
+  padding: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  color: yellow;
+}
+
+/* Sconto alto */
+.hight-discount{
+  background-color: darkgreen;
+}
+
+/* Sconto basso */
+.low-discount{
+  background-color: red;
+}
